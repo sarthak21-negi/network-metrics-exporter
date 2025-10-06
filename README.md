@@ -72,5 +72,3 @@ go run main.go
 ```bash
 http://localhost:9090/metrics
 ```
-## 🧠 Architecture Overview
-
